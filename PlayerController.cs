@@ -22,7 +22,7 @@ namespace _Scripts
 
         private static void OnInputKey(Vector3 dir)
         {
-            
+            Debug.Log("test1");
         }
     }
 }
